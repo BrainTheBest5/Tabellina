@@ -3,7 +3,7 @@
 int main(){
 	float i;
 	int f;
-	float o=0;
+	float o;
 	printf("Scrivi un numero: ");
 	scanf("%f",&i);
 	printf("Tabellina di %f:\n",i);
